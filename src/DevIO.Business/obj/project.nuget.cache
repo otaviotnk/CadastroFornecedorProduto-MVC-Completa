@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4lr8uiOKfZkOOnByhBq/g7IUhquOr1TXwDzxA+3MLHoelu2PL7ygcEBZL21+zOzqt2Y4fTaxGHMiqF2630Mzg==",
+  "success": true,
+  "projectFilePath": "D:\\Repositórios Visual Studio 2019\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\otavi\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
